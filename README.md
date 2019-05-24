@@ -21,10 +21,6 @@ Performance of KMeans on different techniques of dimensionality reduction on the
 
 # Deep Learning for Text Dimensionality Reduction
 
-Performance of Autoencoder (AE) for each Epoch on the NewsGroups Dataset:<br />
-
-![Alt text](https://github.com/saman-nia/Deep-Learning-for-Dimensionality-Reduction/blob/master/Text%20Documents%20Dimensionality%20Reduction/Text%20Embedded/AE%20Performance%20for%20each%20epoch.png?raw=true "Title")
-
 Final Embedded codes of Autoencoder (AE) on the 6 Groups of the 20 NewsGroups Dataset:<br />
 
 ![Alt text](https://github.com/saman-nia/Deep-Learning-for-Dimensionality-Reduction/blob/master/Text%20Documents%20Dimensionality%20Reduction/Text%20Embedded/AE%20Performance.png?raw=true "Title")
