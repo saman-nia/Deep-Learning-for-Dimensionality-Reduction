@@ -39,4 +39,4 @@ Python (>= 3.4) <br />
 NumPy (>= 1.8.2) <br />
 SciPy (>= 0.13.3) <br />
 scikit-learn (>= 0.20) <br />
-TensorFlow (>= 1.2) <br />
+TensorFlow (2.0) <br />
